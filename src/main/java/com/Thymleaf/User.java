@@ -11,7 +11,6 @@ import lombok.*;
 @NoArgsConstructor
 @ToString
 public class User {
-
     String name;
     String email;
     Integer mobile;

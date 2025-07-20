@@ -21,5 +21,6 @@ public class DemoController
         modelAndView.setViewName("user-data");
         modelAndView.addObject("user", user);
         return modelAndView;
+
     }
 }
